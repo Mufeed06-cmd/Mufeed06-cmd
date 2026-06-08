@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Mufeed 👋
 
-<!--
-**Mufeed06-cmd/Mufeed06-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Backend & AI Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building software, learning backend systems, and exploring AI engineering.
+
+Currently learning:
+- Python
+- Backend Development
+- RAG Systems
+- AI Engineering
+- Linux & Docker
+
+---
+
+## 🛠 Tech Stack
+
+- C
+- Python
+- Java
+- JavaScript
+- HTML
+- Git & GitHub
+
+---
+
+## 📌 Current Projects
+
+### VidyaDisha
+AI-powered career guidance platform helping students explore educational and career paths.
+
+### AI News Site
+A web platform for AI-related news and updates.
+
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Architecture
+- APIs
+- Databases
+- RAG Pipelines
+- AI Agents
+- Deployment
+
+---
+
+## 🔗 Links
+
+Portfolio:
+https://nakeeb-mufeed-portfolio.vercel.app
+
+LinkedIn:
+https://www.linkedin.com/in/nmufeed/
+
+---
+
+## 🎯 Goal
+
+To become a strong Backend & AI Engineer capable of building real-world intelligent systems and impactful products.
